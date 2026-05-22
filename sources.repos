@@ -1,4 +1,12 @@
 repositories:
+  hpp-fcl:
+    type: git
+    url: https://github.com/humanoid-path-planner/hpp-fcl.git
+    version: devel
+  pinocchio:
+    type: git
+    url: https://github.com/stack-of-tasks/pinocchio.git
+    version: master
   omni_msgs:
     type: git
     url: https://github.com/bharatm11/Geomagic_Touch_ROS_Drivers.git
